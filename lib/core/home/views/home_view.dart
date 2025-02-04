@@ -14,7 +14,7 @@ class HomeView extends StatelessWidget {
             icon: Icon(Icons.menu_rounded),
           ),
         ),
-        title: Text('Byte App'),
+        title: Text('Byte - Money Manager'),
         actions: [
           IconButton(
             onPressed: null,
